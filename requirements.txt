@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pdfplumber
+python-multipart  # for file uploads
+ 
