@@ -1,5 +1,4 @@
 fastapi
-uvicorn
+uvicorn[standard]
 pdfplumber
-python-multipart  # for file uploads
- 
+python-multipart
